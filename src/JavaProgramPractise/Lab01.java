@@ -7,7 +7,7 @@ public class Lab01 {
         byte b = 10;
         short s = 12;
         int i = 14;
-        long l = 9876543210l;
+        long l = 9876543210L;
         float f = 18f;
         double d = 20;
 
