@@ -18,7 +18,7 @@ public class Assignment06 {
 
         if (n1 > n2 && n1 > n3  ) {
             System.out.println("Largest Number " + n1);
-        } else if (n2 > n3  && n2 > n3 ) {
+        } else if (n2 > n1  && n2 > n3 ) {
             System.out.println("Largest Number " + n2);
         }else
         {
