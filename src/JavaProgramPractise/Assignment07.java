@@ -15,6 +15,6 @@ public class Assignment07 {
         }else {
             System.out.println("Enter Value is Constant " + ch);
         }
-
+sc.close();
     }
 }

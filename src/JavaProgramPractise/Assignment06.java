@@ -24,6 +24,7 @@ public class Assignment06 {
         {
             System.out.println("Largest Number "+ n3);
         }
+        sc.close();
 
     }
 
