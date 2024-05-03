@@ -15,6 +15,6 @@ public class Assignment05 {
 
         }
 
-
+sc.close();
     }
 }
